@@ -7,7 +7,7 @@ this code was made in 4 parts
 *memory
 this code will not run if the parts are missing, they should store in one folder
 it have the basic algorithm of a calculator
-*subtractio
+*subtraction
 *multiplication
 *division
 *addition
